@@ -1,8 +1,7 @@
-1: Ty Mulholland - @tymulholland
-2: Silas - @silasdraws
-3: Brian Shumate - @brianshumate
-4: QD/Kristina - @gringogidget
-5: Ben / @nvcexploder
-6: EBB / @alexchally
-7: hep / @hepkitten
-8: Zandi / @zandidandizette
+* Silas - @silasdraws
+* Brian Shumate - @brianshumate
+* QD/Kristina - @gringogidget
+* Ben / @nvcexploder
+* EBB / @alexchally
+* hep / @hepkitten
+* Zandi / @zandidandizette
